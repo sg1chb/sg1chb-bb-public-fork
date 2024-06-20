@@ -1,5 +1,5 @@
-name: Try My Github Action
-run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+name: Try My Github Action With PyLint
+run-name: ${{ github.actor }} is testing out GitHub Actions with PyLint🚀
 # on: [push]
 # jobs:
 #   Try-GitHub-Actions:
